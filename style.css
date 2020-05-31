@@ -107,7 +107,7 @@ a{
 
 .box:hover{
     /*transform: scale(1.1);*/
-    transform: scale(1.05);
+    transform: scale(1.1);
     box-shadow: 10px 10px 30px #444;
 }
 
