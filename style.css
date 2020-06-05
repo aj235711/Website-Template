@@ -69,10 +69,11 @@ a{
     height: 75vh;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 .container img{
-    width: 80vh;
+    width: 50%;
     height: 50vh;
 }
 
